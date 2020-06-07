@@ -1,0 +1,204 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:san-serif;
+}
+.field img{
+	width:108vh;
+	position:absolute;
+	left:51vh;
+	top:0vh;
+}
+.rou img{
+	width:200vh;
+	height:45vh;
+	position:absolute;
+	left:5vh;
+	top:38vh;
+	background:none;
+}
+.barce img{
+	width:20vh;
+	position:absolute;
+	left:15vh;
+	top:50vh;
+	background:none;
+}
+.bar h2{
+	width:15vh;
+	position:absolute;
+	left:18vh;
+	top:69vh;
+	background:none;
+}
+.path img{
+	width:50vh;
+	height:12vh;
+	position:absolute;
+	left:118vh;
+	top:25vh;
+	background:none;
+}
+.rec img{
+	width:25vh;
+	position:absolute;
+	left:51vh;
+	top:17vh;
+	background:none;
+}
+.vs img{
+	width:32vh;
+	position:absolute;
+	left:128vh;
+	top:28vh;
+	background:none;
+}
+.group img{
+	width:90vh;
+	position:absolute;
+	left:70vh;
+	top:83vh;
+	background:none;
+}
+.real img{
+	width:27vh;
+	position:absolute;
+	left:167vh;
+	top:45vh;
+	background:none;
+}
+.realp img{
+	width:15vh;
+	position:absolute;
+	left:174vh;
+	top:68vh;
+	background:none;
+}
+.stadim h4{
+	width:24vh;
+	position:absolute;
+	left:51vh;
+	top:48vh;
+	color:white;
+	background:rgba(0,0,0,0.4);
+}
+.select img{
+	width:200vh;
+	position:absolute;
+	left:8vh;
+	top:0vh;
+	background:none;
+}
+.time img{
+	width:14vh;
+	position:absolute;
+	left:100vh;
+	top:61vh;
+	background:none;
+}
+.bdtime img{
+	width:10vh;
+	position:absolute;
+	left:102vh;
+	top:66vh;
+	background:none;
+}
+.cstadium h4{
+	width:22vh;
+	position:absolute;
+	left:98vh;
+	top:72vh;
+	background:none;
+}
+.realp img{
+	width:15vh;
+	position:absolute;
+	left:174vh;
+	top:68vh;
+	background:none;
+}
+.rec2 img{
+	width:20vh;
+	position:absolute;
+	left:51vh;
+	top:23.1vh;
+	background:none;
+}
+.inter img{
+	width:18vh;
+	position:absolute;
+	left:52vh;
+	top:17vh;
+	background:none;
+}
+.leag h1{
+	width:10vh;
+	position:absolute;
+	left:52vh;
+	top:22.5vh;
+	color:white;
+	background:none;
+}
+.red img{
+	width:1vh;
+	height:5vh;
+	position:absolute;
+	left:70vh;
+	top:23.1vh;
+	background:none;
+}
+.red2 img{
+	width:1vh;
+	height:6.4vh;
+	position:absolute;
+	left:75.5vh;
+	top:17vh;
+	background:none;
+}
+.gol img{
+	width:15vh;
+	height:7vh;
+	position:absolute;
+	left:132vh;
+	top:42vh;
+	background:rgba(0,0,0,0.6);
+}
+#si{
+	width:138vh;
+	height:100vh;
+	position:fixed;
+	left:35vh;
+	top:-150vh;
+	z-index:2;
+	background:rgba(0,0,0,0.6);
+	transition:.5s;
+	
+	
+}
+nav ul li{
+	list-style:none;
+	margin:9vh 50vh;
+}
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	font-size:50vh italic;
+}
+.search input{
+	width:25vh;
+	height:5vh;
+	position:absolute;
+	left:100vh;
+	top:10vh;
+	border-radius:35px;
+	border:0.5vh solid blue;
+	
+}
+.search img{
+	width:2.5vh;
+	position:absolute;
+	left:121vh;
+	top:11.5vh;
+	display:white;
+	background:none;
+}

@@ -1,0 +1,97 @@
+
+#fc{
+	width:138vh;
+	height:90vh;
+	position:fixed;
+	left:0vh;
+	top:-130vh;
+	z-index:2;
+	background:white;
+	transition:.5s;
+	
+	
+}
+.barce img{
+	width:10vh;
+	position:absolute;
+	left:20vh;
+	top:20vh;
+	display:white;
+	border-radius:20px;
+	border:0.5vh solid blue;
+	background:silver;
+}
+.barce h3{
+	position:absolute;
+	top:30vh;
+	left:16vh;
+}
+.r img{
+	width:200vh;
+	height:100vh;
+}
+h1{
+	position:absolute;
+	left:90vh;
+	top:10vh;
+	color:blue;
+	border-radius:20px;
+	border:0.5vh solid silver;
+	background:silver;
+	
+}
+.fc img{
+	width:180vh;
+}
+.text img{
+	width:10vh;
+	height:5vh;
+	color:black;
+	position:absolute;
+	right:5vh;
+	top:6vh;
+	font-size:3.5vh;
+	text-decoration:none;
+	
+}
+.text1 img{
+	width:10vh;
+	height:5vh;
+	color:black;
+	position:absolute;
+	ieft:0;
+	top:90vh;
+	font-size:3.5vh;
+	text-decoration:none;
+	
+}
+#arg1{
+	width:135vh;
+	height:90vh;
+	position:fixed;
+	left:0vh;
+	top:-150vh;
+	z-index:2;
+	background:white;
+	transition:.5s;
+	
+	
+}
+.arg img{
+	width:180vh;
+}
+.argn img{
+	width:15vh;
+	position:absolute;
+	left:40vh;
+	top:20vh;
+	display:white;
+	border-radius:20px;
+	border:1vh solid yellow;
+	background:silver;
+}
+.argn h3{
+	position:absolute;
+	top:30vh;
+	left:42vh;
+}

@@ -1,0 +1,238 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:san-serif;
+}
+.field img{
+	width:108vh;
+	position:absolute;
+	left:51vh;
+	top:0vh;
+}
+.rou img{
+	width:200vh;
+	height:43vh;
+	position:absolute;
+	left:5vh;
+	top:38vh;
+	background:none;
+}
+.barce img{
+	width:20vh;
+	position:absolute;
+	left:15vh;
+	top:50vh;
+	background:none;
+}
+.bar h3{
+	width:15vh;
+	position:absolute;
+	left:18vh;
+	top:68vh;
+	background:none;
+}
+.path img{
+	width:50vh;
+	height:12vh;
+	position:absolute;
+	left:118vh;
+	top:25vh;
+	background:none;
+}
+.rec img{
+	width:25vh;
+	position:absolute;
+	left:51vh;
+	top:17vh;
+	background:none;
+}
+.vs h1{
+	width:50vh;
+	position:absolute;
+	left:128vh;
+	top:29vh;
+	color:white;
+	background:none;
+}
+.group img{
+	width:90vh;
+	position:absolute;
+	left:70vh;
+	top:83vh;
+	background:none;
+}
+.real img{
+	width:15vh;
+	position:absolute;
+	left:175vh;
+	top:47.5vh;
+	background:none;
+}
+.realp h3{
+	width:15vh;
+	position:absolute;
+	left:179vh;
+	top:65vh;
+	background:none;
+}
+.stadim h5{
+	width:30vh;
+	position:absolute;
+	left:51vh;
+	top:48vh;
+	color:white;
+	border-radius:10px;
+	text-align:center;
+	border:0.5vh solid blue;
+	font-size:3vh;
+	background:rgba(0,0,0,0.4);
+}
+.select img{
+	width:200vh;
+	position:absolute;
+	left:8vh;
+	top:0vh;
+	background:none;
+}
+.time h1{
+	width:25vh;
+	position:absolute;
+	left:100vh;
+	top:60vh;
+	font-size:5vh;
+	background:none;
+}
+.bdtime h3{
+	width:20vh;
+	position:absolute;
+	left:103vh;
+	font-size:3vh;
+	top:66vh;
+	
+	background:none;
+}
+.cstadium h5{
+	width:22vh;
+	position:absolute;
+	left:102vh;
+	top:70vh;
+	font-size:3vh;
+	background:none;
+}
+.realp img{
+	width:15vh;
+	position:absolute;
+	left:174vh;
+	top:68vh;
+	background:none;
+}
+.rec2 img{
+	width:17vh;
+	height:3.5vh;
+	position:absolute;
+	left:51vh;
+	top:23.1vh;
+	background:none;
+}
+.inter h1{
+	width:25vh;
+	position:absolute;
+	left:51vh;
+	top:17vh;
+	color:white;
+	text-align:center;
+	border-radius:10px;
+	background:rgba(0,0,0,0.5);
+	border:0.4vh solid yellow;
+
+}
+.leag h1{
+	width:10vh;
+	position:absolute;
+	left:0vh;
+	top:0vh;
+	background:lime;
+	border-radius:20px;
+	text-align:center;
+	border:0.5vh solid blue;
+}
+
+.leag h2{
+	width:20vh;
+	position:absolute;
+	left:95vh;
+	top:4vh;
+	color:white;
+	background:rgba(0,0,0,0.6);
+	border-radius:20px;
+	text-align:center;
+	border:0.5vh solid blue;
+}
+.red img{
+	width:1vh;
+	height:3.5vh;
+	position:absolute;
+	left:67vh;
+	top:23.1vh;
+	background:none;
+}
+.red2 img{
+	width:1vh;
+	height:6.4vh;
+	position:absolute;
+	left:75.5vh;
+	top:17vh;
+	background:none;
+}
+.gol h1{
+	width:50vh;
+	height:5vh;
+	position:absolute;
+	left:109vh;
+	top:38vh;
+	border-radius:20px;
+	text-align:center;
+	border:0.5vh solid blue;
+	color:blue;
+	
+	background:rgba(0,0,0,0.7);
+}
+#si{
+	width:138vh;
+	height:100vh;
+	position:fixed;
+	left:35vh;
+	top:-150vh;
+	z-index:2;
+	background:rgba(0,0,0,0.6);
+	transition:.5s;
+	
+	
+}
+nav ul li{
+	list-style:none;
+	margin:9vh 50vh;
+}
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	font-size:50vh italic;
+}
+.search input{
+	width:25vh;
+	height:5vh;
+	position:absolute;
+	left:100vh;
+	top:10vh;
+	border-radius:35px;
+	border:0.5vh solid blue;
+	
+}
+.search img{
+	width:2.5vh;
+	position:absolute;
+	left:121vh;
+	top:11.5vh;
+	display:white;
+	background:none;
+}
